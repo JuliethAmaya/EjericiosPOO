@@ -1,0 +1,1 @@
+Usuario{nombre=Jhonatan Fuentes , identificacion=1193222603, tipoUsuario=Bibliotecario, correoElectronico=jonathan@gmail.com, clave=12345J}

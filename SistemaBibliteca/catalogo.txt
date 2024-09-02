@@ -1,0 +1,1 @@
+Libro{titulo=Cien años de soledad, autor=Gabriel García Márquez, isbn=9788420471839, genero=Realismo mágico, numeroCopias=12, disponible=true}
