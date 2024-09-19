@@ -1,1 +1,0 @@
-Prestamo{libro=Cien años de soledad, usuario=Estiven Fuentes, fechaInicio=2024-08-31, fechaDevolucion=2024-09-14, estado=9788420471839}

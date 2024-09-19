@@ -1,0 +1,4 @@
+2024-09-09 14:07:15| Operacion: Alta| Usuario: Juan,123456789,Lector,juan@gmail.com,d123
+2024-09-09 14:08:47| Operacion: Baja| Usuario: Juan,123456789,Lector,juan@gmail.com,d123
+2024-09-09 14:24:00| Operacion: Alta| Usuario: Maria Hernandez,159357,Lector,maria2@gmail.com,147M
+2024-09-09 16:41:12| Operacion: Modificar| Usuario: Julieth Xiomara,1055988087,Bibliotecario,julieth@gmail.com,admin123

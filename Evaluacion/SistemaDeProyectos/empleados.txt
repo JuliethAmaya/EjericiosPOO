@@ -1,0 +1,8 @@
+1055988087,Julieth Amaya,Gerente
+123456789,Maria Perez,Ayudante
+123546,Marcos Perez,Abogado
+100664487,Estiven,Gerente
+10058487,Gustavo Guaje,Lider
+123456789,Sebastian Garcia,Ayudante
+1478529,Alejandra Zorro,Ayudante
+7894561,Eliana,Abogada,[]

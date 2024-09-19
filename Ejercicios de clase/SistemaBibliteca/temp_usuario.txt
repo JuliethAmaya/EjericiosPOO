@@ -1,0 +1,8 @@
+Juan Perez,123,Bibliotecario,juan@gmail.com,147
+juan,123,lector,juan@gmail.com,159
+juan,123,lector,juan@gmail.com,147
+juan,123,lector,juan@gmail.com,147
+Maria,123456,Bibliotecario,maria@gmail.com,157
+Mery Herrera,147,Bibliotecario,mery@gmail.com,M12
+Maria Perez,123457,Lector,maria@gmail.com,154M
+Juan,123456789,Lector,juan@gmail.com,d123

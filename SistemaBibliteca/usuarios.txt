@@ -1,3 +1,0 @@
-Usuario{nombre=Estiven Fuentes, identificacion=123456, tipoUsuario=lector, correoElectronico=estiven@gmailcom, clave=estiven1}
-Usuario{nombre=Jhonatan Fuentes , identificacion=1193222603, tipoUsuario=Bibliotecario, correoElectronico=jonathan@gmail.com, clave=12345J}
-Usuario{nombre=XIO, identificacion=123, tipoUsuario=lector, correoElectronico=xioma@gmail.com, clave=123X}

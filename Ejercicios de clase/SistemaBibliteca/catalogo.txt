@@ -1,0 +1,4 @@
+Los doce cuentos peregrinos,Gabriel Garcia,123456789,Cuentos,0,false
+Cuentos,Gabriel garcia,12345,Cuentos,4,true
+Historias Biblicas,JW org,15978,Historia,7,true
+El diario de Ana Frank,Ana Frank,789456,Literario,5,true

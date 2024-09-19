@@ -1,0 +1,28 @@
+2024-09-08 17:50:17| Operacion: Alta| libro: Maria La Fea,Juan,1597,Literario,2,true
+2024-09-08 17:51:03| Operacion: Modificación| libro: Maria La Fea,Juan Perez,1597,Literario,3,true
+2024-09-08 17:52:58| Operacion: Alta| libro: Historias Biblicas,Julieth Amaya,123789,Misterio,4,true
+2024-09-08 17:55:10| Operacion: Alta| libro: Los 10 Cuentos peregrinos,Gabriel Gacia Marquz,147369,Cuentos,3,true
+2024-09-08 17:55:34| Operacion: Modificación| libro: Los 10 Cuentos peregrinos,Gabriel Gacia Marquez,147369,Cuentos,3,true
+2024-09-08 18:00:51| Operacion: Alta| libro: hgdgfhsdf,fdsgdg,14785,fsdgdfg,2,true
+2024-09-08 18:02:25| Operacion: Modificación| libro: Betty la Fea,Maria Perez,14785,Romantico,2,true
+2024-09-08 18:29:37| Operacion: Alta| libro: sdrfg,fghdgh,127845,fhgggf,5,true
+2024-09-08 18:45:27| Operacion: Modificación| libro: Biblia,Jesus,127845,Biblicos,5,true
+2024-09-08 18:46:13| Operacion: Modificación| libro: Los Cuentos peregrinos,Gabriel Gacia Marquez,147369,Cuentos,3,true
+2024-09-08 18:54:36| Operacion: Alta| libro: adsdsfsdgsdfg,fdgdg,15739,fdgdfgrer,2,true
+2024-09-08 18:55:23| Operacion: Modificación| libro: Maria,Javier,15739,Literario,2,true
+2024-09-08 18:55:47| Operacion: Alta| libro: sdgdfghfhfghgfjj,fgjhfgjfgjj,123459,gfhf,3,true
+2024-09-08 18:56:43| Operacion: Modificación| libro: Los Hermanos Green,Maria,123459,Fantastico,3,true
+2024-09-08 18:57:53| Operacion: Alta| libro: dsafsder,Fernanda,186794,Literario,6,true
+2024-09-08 18:58:44| Operacion: Modificación| libro: Betty La Fea,Fernanda,186794,Literario,6,true
+2024-09-08 23:14:05| Operacion: Alta| libro: Los hermanos Green,Juan,123456,Literario,5,true
+2024-09-08 23:17:59| Operacion: Alta| libro: Cuentos,Marcosa,123456,Cuentos,5,true
+2024-09-08 23:25:12| Operacion: Alta| libro: Cuentos,123456,123456,swahgfj,2,true
+2024-09-08 23:25:51| Operacion: Modificación| libro: Cuentos,Maria,123456,Literario,2,true
+2024-09-08 23:26:13| Operacion: Modificación| libro: Cuentos,Maria,123456,Literario,2,true
+2024-09-08 23:27:33| Operacion: Modificación| libro: Cuentos,123456,123456,Literario,2,true
+2024-09-08 23:27:52| Operacion: Modificación| libro: Cuentos,Marcos,123456,Literario,2,true
+2024-09-09 16:33:25| Operacion: Alta| libro: Los doce cuentos peregrinos,Gabriel,123456789,Cuentos,5,true
+2024-09-09 16:42:12| Operacion: Modificación| libro: Los doce cuentos peregrinos,Gabriel Garcia,123456789,Cuentos,4,true
+2024-09-10 18:55:01| Operacion: Alta| libro: Cuentos,Gabriel garcia,12345,Cuentos,5,true
+2024-09-11 20:19:38| Operacion: Alta| libro: Historias Biblicas,JW org,15978,Historia,8,true
+2024-09-12 14:16:01| Operacion: Alta| libro: El diario de Ana Frank,Ana Frank,789456,Literario,5,true

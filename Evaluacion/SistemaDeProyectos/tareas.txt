@@ -1,0 +1,3 @@
+1A1,Desarrollar,completada,Sebastian Garcia
+1H,Aplicacion,completada,null
+Aprender,Bailar Salsa,pendiente,Alejandra Zorro

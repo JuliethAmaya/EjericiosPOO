@@ -1,0 +1,5 @@
+Jhonatan Fuentes,1193222603,Bibliotecario,jonathan@gmail.com,12345J
+Julieth Xiomara,1055988087,Bibliotecario,julieth@gmail.com,admin123
+Xiomara Amaya Herrera,123456789,Lector,juan@gmail.com,123
+Maria,159789,Lector,maria@gmail.com,123M
+Maria Hernandez,159357,Lector,maria2@gmail.com,147M
